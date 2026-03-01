@@ -8,7 +8,7 @@ The goal of this project is to continuously improve routing, switching, security
 
 ## 🖥 Lab Collection Overview
 
-![CML Labs Overview](CML-labs.png)
+![CML Labs Overview](Cisco-CML-labs.png)
 
 ---
 
